@@ -1,1507 +1,388 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
-
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="jptvgo_final_archivos/filelist.xml">
-<!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>Gianmarco Cheng</o:Author>
-  <o:LastAuthor>Gianmarco Cheng Portales</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>4</o:TotalTime>
-  <o:Created>2026-09-30T18:22:00Z</o:Created>
-  <o:LastSaved>2026-09-30T18:22:00Z</o:LastSaved>
-  <o:Pages>12</o:Pages>
-  <o:Words>4085</o:Words>
-  <o:Characters>23289</o:Characters>
-  <o:Lines>194</o:Lines>
-  <o:Paragraphs>54</o:Paragraphs>
-  <o:CharactersWithSpaces>27320</o:CharactersWithSpaces>
-  <o:Version>16.00</o:Version>
- </o:DocumentProperties>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]-->
-<link rel=themeData href="jptvgo_final_archivos/themedata.thmx">
-<link rel=colorSchemeMapping href="jptvgo_final_archivos/colorschememapping.xml">
-<!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:TrackMoves>false</w:TrackMoves>
-  <w:TrackFormatting/>
-  <w:HyphenationZone>21</w:HyphenationZone>
-  <w:PunctuationKerning/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>ES</w:LidThemeOther>
-  <w:LidThemeAsian>JA</w:LidThemeAsian>
-  <w:LidThemeComplexScript>AR-SA</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:EnableOpenTypeKerning/>
-   <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
-   <w:UseFELayout/>
-  </w:Compatibility>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
-  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="376">
-  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 9"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="header"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footer"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index heading"/>
-  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of figures"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope return"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="line number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="page number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of authorities"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="macro"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toa heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 5"/>
-  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Closing"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Signature"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Message Header"/>
-  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Salutation"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Date"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Block Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="FollowedHyperlink"/>
-  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Document Map"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Plain Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="E-mail Signature"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Top of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Bottom of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal (Web)"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Acronym"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Cite"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Code"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Definition"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Keyboard"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Preformatted"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Sample"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Typewriter"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Variable"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Table"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation subject"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="No List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Contemporary"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Elegant"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Professional"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Balloon Text"/>
-  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Theme"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" QFormat="true"
-   Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" QFormat="true"
-   Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" QFormat="true"
-   Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" QFormat="true"
-   Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" QFormat="true"
-   Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" QFormat="true"
-   Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
-  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
-  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
-  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
-  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
-  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
-  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
-  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hashtag"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Unresolved Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Link"/>
- </w:LatentStyles>
-</xml><![endif]-->
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:roman;
-	mso-font-pitch:variable;
-	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
-@font-face
-	{font-family:Calibri;
-	panose-1:2 15 5 2 2 2 4 3 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:swiss;
-	mso-font-pitch:variable;
-	mso-font-signature:-469750017 -1040178053 9 0 511 0;}
-@font-face
-	{font-family:"Yu Mincho";
-	panose-1:2 2 4 0 0 0 0 0 0 0;
-	mso-font-alt:\6E38\660E\671D;
-	mso-font-charset:128;
-	mso-generic-font-family:roman;
-	mso-font-pitch:variable;
-	mso-font-signature:-2147482905 717749503 18 0 131231 0;}
-@font-face
-	{font-family:Consolas;
-	panose-1:2 11 6 9 2 2 4 3 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:modern;
-	mso-font-pitch:fixed;
-	mso-font-signature:-536869121 64767 1 0 415 0;}
-@font-face
-	{font-family:"\@Yu Mincho";
-	panose-1:2 2 4 0 0 0 0 0 0 0;
-	mso-font-charset:128;
-	mso-generic-font-family:roman;
-	mso-font-pitch:variable;
-	mso-font-signature:-2147482905 717749503 18 0 131231 0;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-parent:"";
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:8.0pt;
-	margin-left:0cm;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:"Yu Mincho";
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:Arial;
-	mso-bidi-theme-font:minor-bidi;}
-p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
-	{mso-style-priority:99;
-	mso-style-link:"Texto sin formato Car";
-	margin:0cm;
-	mso-pagination:widow-orphan;
-	font-size:10.5pt;
-	font-family:Consolas;
-	mso-fareast-font-family:"Yu Mincho";
-	mso-fareast-theme-font:minor-fareast;
-	mso-bidi-font-family:Arial;
-	mso-bidi-theme-font:minor-bidi;}
-span.TextosinformatoCar
-	{mso-style-name:"Texto sin formato Car";
-	mso-style-priority:99;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"Texto sin formato";
-	mso-ansi-font-size:10.5pt;
-	mso-bidi-font-size:10.5pt;
-	font-family:Consolas;
-	mso-ascii-font-family:Consolas;
-	mso-hansi-font-family:Consolas;}
-.MsoChpDefault
-	{mso-style-type:export-only;
-	mso-default-props:yes;
-	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:"Yu Mincho";
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:Arial;
-	mso-bidi-theme-font:minor-bidi;
-	mso-font-kerning:0pt;
-	mso-ligatures:none;}
-.MsoPapDefault
-	{mso-style-type:export-only;
-	margin-bottom:8.0pt;
-	line-height:107%;}
-@page WordSection1
-	{size:595.3pt 841.9pt;
-	margin:70.85pt 66.75pt 70.85pt 66.7pt;
-	mso-header-margin:35.4pt;
-	mso-footer-margin:35.4pt;
-	mso-paper-source:0;}
-div.WordSection1
-	{page:WordSection1;}
--->
-</style>
-<!--[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:"Tabla normal";
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:8.0pt;
-	mso-para-margin-left:0cm;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:Arial;
-	mso-bidi-theme-font:minor-bidi;}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="1026"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><![endif]-->
-</head>
-
-<body lang=EN-US style='tab-interval:36.0pt;word-wrap:break-word'>
-
-<div class=WordSection1>
-
-<p class=MsoPlainText><span style='font-family:"Courier New"'>#EXTM3U<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_74.png&quot;
-group-title=&quot;Matsu Server&quot;,MTV Japan<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/74.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_48.png&quot;
-group-title=&quot;Matsu Server&quot;,Movie Plus<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/73.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_0.png&quot;
-group-title=&quot;Matsu Server&quot;,Unknown E203 A<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/72.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_40.png&quot;
-group-title=&quot;Matsu Server&quot;,J SPORTS 4 off-air<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/71.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_39.png&quot;
-group-title=&quot;Matsu Server&quot;,J SPORTS 3<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/70.m3u8<br />
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_38.png&quot;
-group-title=&quot;Matsu Server&quot;,J SPORTS 2<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/69.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_37.png&quot;
-group-title=&quot;Matsu Server&quot;,J SPORTS 1<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/68.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_61.png&quot;
-group-title=&quot;Matsu Server&quot;,Golf Network<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/67.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_36.png&quot;
-group-title=&quot;Matsu Server&quot;,Green Channel<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/60.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_0.png&quot;
-group-title=&quot;Matsu Server&quot;,KBS1 UHD<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/59.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_43.png&quot;
-group-title=&quot;Matsu Server&quot;,Disney Channel<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/58.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_33.png&quot;
-group-title=&quot;Matsu Server&quot;,Japanese Movie Channel<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/57.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_42.png&quot;
-group-title=&quot;Matsu Server&quot;,Animax<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/56.m3u8<br />
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_30.png&quot;
-group-title=&quot;Matsu Server&quot;,WOWOW Plus<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/55.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_0.png&quot;
-group-title=&quot;Matsu Server&quot;,World Fishing Network<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/54.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_35.png&quot;
-group-title=&quot;Matsu Server&quot;,BS Yoshimoto<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/53.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_32.png&quot;
-group-title=&quot;Matsu Server&quot;,BS10 Premium A<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/52.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_0.png&quot;
-group-title=&quot;Matsu Server&quot;,Nippon TV Poshre<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/44.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_29.png&quot;
-group-title=&quot;Matsu Server&quot;,WOWOW Cinema<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/41.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_28.png&quot;
-group-title=&quot;Matsu Server&quot;,WOWOW Live<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/40.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_27.png&quot;
-group-title=&quot;Matsu Server&quot;,WOWOW Prime<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/39.m3u8<br />
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_19.png&quot;
-group-title=&quot;Matsu Server&quot;,BS Asahi<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/38.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_23.png&quot;
-group-title=&quot;Matsu Server&quot;,BS TV Tokyo<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/37.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_0.png&quot;
-group-title=&quot;Matsu Server&quot;,GSTV<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/36.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_0.png&quot;
-group-title=&quot;Matsu Server&quot;,Direct Teleshop<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/35.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_34.png&quot;
-group-title=&quot;Matsu Server&quot;,JCOM BS A<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/33.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_17.png&quot;
-group-title=&quot;Matsu Server&quot;,NHK BS<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/32.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_10.png&quot;
-group-title=&quot;Matsu Server&quot;,ABC TV<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/28.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_0.png&quot;
-group-title=&quot;Matsu Server&quot;,NHK General Osaka<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/25.m3u8<br />
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_0.png&quot;
-group-title=&quot;Matsu Server&quot;,Sun TV<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/23.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_13.png&quot;
-group-title=&quot;Matsu Server&quot;,TV Osaka<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/22.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_12.png&quot;
-group-title=&quot;Matsu Server&quot;,Yomiuri TV B<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/21.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_12.png&quot;
-group-title=&quot;Matsu Server&quot;,Yomiuri TV A<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/20.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_9.png&quot;
-group-title=&quot;Matsu Server&quot;,MBS<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/18.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_0.png&quot;
-group-title=&quot;Matsu Server&quot;,Chiba TV<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/17.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_0.png&quot;
-group-title=&quot;Matsu Server&quot;,NHK General<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/14.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_4.png&quot;
-group-title=&quot;Matsu Server&quot;,Fuji TV<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/12.m3u8<br />
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_6.png&quot;
-group-title=&quot;Matsu Server&quot;,TV Tokyo<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/8.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_5.png&quot;
-group-title=&quot;Matsu Server&quot;,TV Asahi<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/7.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_3.png&quot;
-group-title=&quot;Matsu Server&quot;,TBS<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/5.m3u8<br />
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_2.png&quot;
-group-title=&quot;Matsu Server&quot;,Nippon TV<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/4.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_0.png&quot;
-group-title=&quot;Matsu Server&quot;,Unknown E202 A<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/3.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_59.png&quot;
-group-title=&quot;Matsu Server&quot;,GAORA SPORTS<br />
-#EXTVLCOPT:network-caching=3000<br />
-http://42.113.96.247:9394/stream/1.m3u8<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_100.png&quot;
-group-title=&quot;Sakura Server&quot;,Weather News<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_44.png&quot;
-group-title=&quot;Sakura Server&quot;,The Cinema<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_90.png&quot;
-group-title=&quot;Sakura Server&quot;,Tetsudo Channel<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_52.png&quot;
-group-title=&quot;Sakura Server&quot;,Takarazuka Sky Stage<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_89.png&quot;
-group-title=&quot;Sakura Server&quot;,Tabi Channel<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/tabi_channel/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_58.png&quot;
-group-title=&quot;Sakura Server&quot;,TV Asahi Channel 2<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_48.png&quot;
-group-title=&quot;Sakura Server&quot;,TV Asahi Channel 1<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_98.png&quot;
-group-title=&quot;Sakura Server&quot;,TBS News<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/tbs_news/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_47.png&quot;
-group-title=&quot;Sakura Server&quot;,TBS Channel 2<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_46.png&quot;
-group-title=&quot;Sakura Server&quot;,TBS Channel 1<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_64.png&quot;
-group-title=&quot;Sakura Server&quot;,Sport Live Plus<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_76.png&quot;
-group-title=&quot;Sakura Server&quot;,Space Shower TV<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_63.png&quot;
-group-title=&quot;Sakura Server&quot;,Sky A<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/sky_a/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_65.png&quot;
-group-title=&quot;Sakura Server&quot;,Shogi Channel<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_59.png&quot;
-group-title=&quot;Sakura Server&quot;,Nittele Plus<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_60.png&quot;
-group-title=&quot;Sakura Server&quot;,Nittele G+<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/nittele_g/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_86.png&quot;
-group-title=&quot;Sakura Server&quot;,National Geographic Japan<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_99.png&quot;
-group-title=&quot;Sakura Server&quot;,NTV News24<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_53.png&quot;
-group-title=&quot;Sakura Server&quot;,NECO Ch<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_66.png&quot;
-group-title=&quot;Sakura Server&quot;,Mystery Channel<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_73.png&quot;
-group-title=&quot;Sakura Server&quot;,Music ON TV<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_77.png&quot;
-group-title=&quot;Sakura Server&quot;,Music Japan TV<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_75.png&quot;
-group-title=&quot;Sakura Server&quot;,Music Air<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_57.png&quot;
-group-title=&quot;Sakura Server&quot;,Movie Plus<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/movie_plus/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_67.png&quot;
-group-title=&quot;Sakura Server&quot;,Mondo TV<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/mondo_tv/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_97.png&quot;
-group-title=&quot;Sakura Server&quot;,Mnet<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_0.png&quot;
-group-title=&quot;Sakura Server&quot;,Me-Tele NEXT<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_74.png&quot;
-group-title=&quot;Sakura Server&quot;,MTV<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/mtv/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_55.png&quot;
-group-title=&quot;Sakura Server&quot;,LaLa TV<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/lala_tv/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_79.png&quot; group-title=&quot;Sakura
-Server&quot;,Kids Station TV<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_78.png&quot;
-group-title=&quot;Sakura Server&quot;,Kayo Pops<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/kayo_pops/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_96.png&quot;
-group-title=&quot;Sakura Server&quot;,KNTV<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_0.png&quot;
-group-title=&quot;Sakura Server&quot;,KBS World<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_49.png&quot;
-group-title=&quot;Sakura Server&quot;,Jidaigeki Senmon<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_51.png&quot;
-group-title=&quot;Sakura Server&quot;,Home Drama Channel<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_85.png&quot;
-group-title=&quot;Sakura Server&quot;,History<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/history/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_61.png&quot;
-group-title=&quot;Sakura Server&quot;,Golf Network<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/golf_network/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_71.png&quot;
-group-title=&quot;Sakura Server&quot;,Fuji TV TWO<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_70.png&quot;
-group-title=&quot;Sakura Server&quot;,Fuji TV ONE<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_72.png&quot;
-group-title=&quot;Sakura Server&quot;,Fuji TV Next<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_62.png&quot;
-group-title=&quot;Sakura Server&quot;,Fighting TV Samurai<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_50.png&quot;
-group-title=&quot;Sakura Server&quot;,Family Gekijyo<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_45.png&quot;
-group-title=&quot;Sakura Server&quot;,Eisei Gekijo<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_81.png&quot;
-group-title=&quot;Sakura Server&quot;,Disney Junior<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/disney_junior/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_87.png&quot;
-group-title=&quot;Sakura Server&quot;,Discovery Channel<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/discovery_channel/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_54.png&quot;
-group-title=&quot;Sakura Server&quot;,DLife<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_69.png&quot;
-group-title=&quot;Sakura Server&quot;,Channel Ginga<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/channel_ginga/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_84.png&quot;
-group-title=&quot;Sakura Server&quot;,Cartoon Network<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/cartoon_network/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_88.png&quot;
-group-title=&quot;Sakura Server&quot;,Animal Planet<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/animal_planet/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_56.png&quot;
-group-title=&quot;Sakura Server&quot;,Action Channel<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/action_channel/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_80.png&quot;
-group-title=&quot;Sakura Server&quot;,AT-X<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_33.png&quot;
-group-title=&quot;Sakura Server&quot;,Nihon Eiga Senmon<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_34.png&quot;
-group-title=&quot;Sakura Server&quot;,JCOM BS<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/jcom_bs/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_ouj.png&quot;
-group-title=&quot;Sakura Server&quot;,Hoso Daigaku EX<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/hoso_daigaku_ex/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_36.png&quot;
-group-title=&quot;Sakura Server&quot;,Green Channel<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/green_channel/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_41.png&quot;
-group-title=&quot;Sakura Server&quot;,Fishing Vision<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/fishing_vision/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_43.png&quot;
-group-title=&quot;Sakura Server&quot;,Disney Channel<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/disney_channel/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_25.png&quot;
-group-title=&quot;Sakura Server&quot;,BS11<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_31.png&quot;
-group-title=&quot;Sakura Server&quot;,BS10<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_35.png&quot;
-group-title=&quot;Sakura Server&quot;,BS Yoshimoto<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_23.png&quot;
-group-title=&quot;Sakura Server&quot;,BS TV Tokyo 4K<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_23.png&quot;
-group-title=&quot;Sakura Server&quot;,BS TV Tokyo<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_21.png&quot;
-group-title=&quot;Sakura Server&quot;,BS TBS<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/bs_tbs/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_18.png&quot;
-group-title=&quot;Sakura Server&quot;,BS NTV 4K<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/bs_ntv_4k/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_18.png&quot;
-group-title=&quot;Sakura Server&quot;,BS NTV<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/bs_ntv/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_24.png&quot;
-group-title=&quot;Sakura Server&quot;,BS Fuji 4K<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/bs_fuji_4k/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_24.png&quot;
-group-title=&quot;Sakura Server&quot;,BS Fuji<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/bs_fuji/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_19.png&quot;
-group-title=&quot;Sakura Server&quot;,BS Asahi 4K<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_19.png&quot;
-group-title=&quot;Sakura Server&quot;,BS Asahi<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/bs_asahi/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_26.png&quot;
-group-title=&quot;Sakura Server&quot;,BS 12<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_32.png&quot;
-group-title=&quot;Sakura Server&quot;,BS 10 Premium<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_42.png&quot;
-group-title=&quot;Sakura Server&quot;,Animax<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/animax/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_12.png&quot;
-group-title=&quot;Sakura Server&quot;,ytv<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/ytv/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_13.png&quot;
-group-title=&quot;Sakura Server&quot;,TV Osaka<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/tv_osaka/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_0.png&quot;
-group-title=&quot;Sakura Server&quot;,SUN<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/sun/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_9.png&quot;
-group-title=&quot;Sakura Server&quot;,MBS<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/mbs/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_11.png&quot;
-group-title=&quot;Sakura Server&quot;,Kansai TV<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/kansai_tv/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_14.png&quot;
-group-title=&quot;Sakura Server&quot;,KBS<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_10.png&quot;
-group-title=&quot;Sakura Server&quot;,ABC<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/abc/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_6.png&quot;
-group-title=&quot;Sakura Server&quot;,TV Tokyo<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1 tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_5.png&quot;
-group-title=&quot;Sakura Server&quot;,TV Asahi<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_8.png&quot;
-group-title=&quot;Sakura Server&quot;,TOKYO MX2<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_7.png&quot;
-group-title=&quot;Sakura Server&quot;,TOKYO MX1<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls<br
-/>
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_3.png&quot;
-group-title=&quot;Sakura Server&quot;,TBS<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/tbs/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_2.png&quot;
-group-title=&quot;Sakura Server&quot;,NTV<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/ntv/stream-output.m3u8?mode=hls<br />
-#EXTINF:-1
-tvg-logo=&quot;https://xuanzi-storage.netgenx.site/icons/icon_4.png&quot;
-group-title=&quot;Sakura Server&quot;,Fuji TV<br />
-#EXTVLCOPT:network-caching=3000<br />
-https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls<br
-/>
-<o:p>&nbsp;</o:p></span></p>
-
-</div>
-
-</body>
-
-</html>
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_74.png" group-title="DELL Server",DELL MTV Japan
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/74.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_48.png" group-title="DELL Server",DELL Movie Plus
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/73.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL Unknown E203 A
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/72.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_40.png" group-title="DELL Server",DELL J SPORTS 4 off-air
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/71.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_39.png" group-title="DELL Server",DELL J SPORTS 3
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/70.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_38.png" group-title="DELL Server",DELL J SPORTS 2
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/69.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_37.png" group-title="DELL Server",DELL J SPORTS 1
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/68.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_61.png" group-title="DELL Server",DELL Golf Network
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/67.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_36.png" group-title="DELL Server",DELL Green Channel
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/60.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL KBS1 UHD
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/59.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_43.png" group-title="DELL Server",DELL Disney Channel
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/58.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_33.png" group-title="DELL Server",DELL Japanese Movie Channel
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/57.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_42.png" group-title="DELL Server",DELL Animax
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/56.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_30.png" group-title="DELL Server",DELL WOWOW Plus
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/55.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL World Fishing Network
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/54.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_35.png" group-title="DELL Server",DELL BS Yoshimoto
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/53.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_32.png" group-title="DELL Server",DELL BS10 Premium A
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/52.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL Nippon TV Poshre
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/44.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_29.png" group-title="DELL Server",DELL WOWOW Cinema
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/41.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_28.png" group-title="DELL Server",DELL WOWOW Live
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/40.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_27.png" group-title="DELL Server",DELL WOWOW Prime
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/39.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_19.png" group-title="DELL Server",DELL BS Asahi
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/38.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_23.png" group-title="DELL Server",DELL BS TV Tokyo
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/37.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL GSTV
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/36.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL Direct Teleshop
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/35.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_34.png" group-title="DELL Server",DELL JCOM BS A
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/33.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_17.png" group-title="DELL Server",DELL NHK BS
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/32.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_10.png" group-title="DELL Server",DELL ABC TV
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/28.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL NHK General Osaka
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/25.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL Sun TV
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/23.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_13.png" group-title="DELL Server",DELL TV Osaka
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/22.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_12.png" group-title="DELL Server",DELL Yomiuri TV B
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/21.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_12.png" group-title="DELL Server",DELL Yomiuri TV A
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/20.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_9.png" group-title="DELL Server",DELL MBS
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/18.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL Chiba TV
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/17.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL NHK General
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/14.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_4.png" group-title="DELL Server",DELL Fuji TV
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/12.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_6.png" group-title="DELL Server",DELL TV Tokyo
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/8.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_5.png" group-title="DELL Server",DELL TV Asahi
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/7.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_3.png" group-title="DELL Server",DELL TBS
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/5.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_2.png" group-title="DELL Server",DELL Nippon TV
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/4.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL Unknown E202 A
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/3.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_59.png" group-title="DELL Server",DELL GAORA SPORTS
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/1.m3u8
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_100.png" group-title="Haru Server",Weather News
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_44.png" group-title="Haru Server",The Cinema
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_90.png" group-title="Haru Server",Tetsudo Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_52.png" group-title="Haru Server",Takarazuka Sky Stage
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_89.png" group-title="Haru Server",Tabi Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_58.png" group-title="Haru Server",TV Asahi Channel 2
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_48.png" group-title="Haru Server",TV Asahi Channel 1
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_98.png" group-title="Haru Server",TBS News
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tbs_news/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_47.png" group-title="Haru Server",TBS Channel 2
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_46.png" group-title="Haru Server",TBS Channel 1
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_64.png" group-title="Haru Server",Sport Live Plus
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_76.png" group-title="Haru Server",Space Shower TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_63.png" group-title="Haru Server",Sky A
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/sky_a/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_65.png" group-title="Haru Server",Shogi Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_59.png" group-title="Haru Server",Nittele Plus
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_60.png" group-title="Haru Server",Nittele G+
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/nittele_g/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_86.png" group-title="Haru Server",National Geographic Japan
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_99.png" group-title="Haru Server",NTV News24
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_53.png" group-title="Haru Server",NECO Ch
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_66.png" group-title="Haru Server",Mystery Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_73.png" group-title="Haru Server",Music ON TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_77.png" group-title="Haru Server",Music Japan TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_75.png" group-title="Haru Server",Music Air
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_57.png" group-title="Haru Server",Movie Plus
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/movie_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_67.png" group-title="Haru Server",Mondo TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_97.png" group-title="Haru Server",Mnet
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Haru Server",Me-Tele NEXT
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_74.png" group-title="Haru Server",MTV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/mtv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_55.png" group-title="Haru Server",LaLa TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/lala_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_79.png" group-title="Haru Server",Kids Station TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_78.png" group-title="Haru Server",Kayo Pops
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_96.png" group-title="Haru Server",KNTV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Haru Server",KBS World
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_49.png" group-title="Haru Server",Jidaigeki Senmon
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_51.png" group-title="Haru Server",Home Drama Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_85.png" group-title="Haru Server",History
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/history/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_61.png" group-title="Haru Server",Golf Network
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/golf_network/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_71.png" group-title="Haru Server",Fuji TV TWO
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_70.png" group-title="Haru Server",Fuji TV ONE
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_72.png" group-title="Haru Server",Fuji TV Next
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_62.png" group-title="Haru Server",Fighting TV Samurai
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_50.png" group-title="Haru Server",Family Gekijyo
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_45.png" group-title="Haru Server",Eisei Gekijo
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_81.png" group-title="Haru Server",Disney Junior
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/disney_junior/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_87.png" group-title="Haru Server",Discovery Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_54.png" group-title="Haru Server",DLife
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_69.png" group-title="Haru Server",Channel Ginga
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_84.png" group-title="Haru Server",Cartoon Network
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_88.png" group-title="Haru Server",Animal Planet
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/animal_planet/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_56.png" group-title="Haru Server",Action Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/action_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_80.png" group-title="Haru Server",AT-X
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_33.png" group-title="Haru Server",Nihon Eiga Senmon
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_34.png" group-title="Haru Server",JCOM BS
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_ouj.png" group-title="Haru Server",Hoso Daigaku EX
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/hoso_daigaku_ex/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_36.png" group-title="Haru Server",Green Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/green_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_41.png" group-title="Haru Server",Fishing Vision
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_43.png" group-title="Haru Server",Disney Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_25.png" group-title="Haru Server",BS11
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_31.png" group-title="Haru Server",BS10
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_35.png" group-title="Haru Server",BS Yoshimoto
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_23.png" group-title="Haru Server",BS TV Tokyo 4K
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_23.png" group-title="Haru Server",BS TV Tokyo
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_21.png" group-title="Haru Server",BS TBS
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_18.png" group-title="Haru Server",BS NTV 4K
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_ntv_4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_18.png" group-title="Haru Server",BS NTV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_24.png" group-title="Haru Server",BS Fuji 4K
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_fuji_4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_24.png" group-title="Haru Server",BS Fuji
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_19.png" group-title="Haru Server",BS Asahi 4K
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_19.png" group-title="Haru Server",BS Asahi
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_26.png" group-title="Haru Server",BS 12
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_32.png" group-title="Haru Server",BS 10 Premium
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_42.png" group-title="Haru Server",Animax
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/animax/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_12.png" group-title="Haru Server",ytv
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/ytv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_13.png" group-title="Haru Server",TV Osaka
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Haru Server",SUN
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/sun/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_9.png" group-title="Haru Server",MBS
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/mbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_11.png" group-title="Haru Server",Kansai TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_14.png" group-title="Haru Server",KBS
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_10.png" group-title="Haru Server",ABC
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/abc/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_6.png" group-title="Haru Server",TV Tokyo
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_5.png" group-title="Haru Server",TV Asahi
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_8.png" group-title="Haru Server",TOKYO MX2
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_7.png" group-title="Haru Server",TOKYO MX1
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_3.png" group-title="Haru Server",TBS
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_2.png" group-title="Haru Server",NTV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_4.png" group-title="Haru Server",Fuji TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
