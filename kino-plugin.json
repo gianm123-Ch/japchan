@@ -3,12 +3,10 @@
   "name": "Japan TV",
   "version": "1.0.0",
   "apiVersion": 3,
+  "icon": "icon.png",
   "entry": "plugin.js",
   "description": "Canales de televisión japonesa en vivo",
-  "author": "JAN",
   "hosts": ["raw.githubusercontent.com"],
   "capabilities": ["home", "resolve", "channels"],
-  "liveStreamHosts": "any",
-  "color": "#e09baf",
-  "icon": "icon.png"
+  "liveStreamHosts": "any"
 }
