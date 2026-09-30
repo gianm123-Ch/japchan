@@ -1,388 +1,388 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="dell-mtv-japan" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_74.png" group-title="DELL Server",DELL MTV Japan
+#EXTINF:-1 tvg-id="matsu-mtv-japan" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_74.png" group-title="Matsu Server",MTV Japan
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/74.m3u8
-#EXTINF:-1 tvg-id="dell-movie-plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_48.png" group-title="DELL Server",DELL Movie Plus
+#EXTINF:-1 tvg-id="matsu-movie-plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_48.png" group-title="Matsu Server",Movie Plus
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/73.m3u8
-#EXTINF:-1 tvg-id="dell-unknown-e203" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL Unknown E203 A
+#EXTINF:-1 tvg-id="matsu-unknown-e203" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Matsu Server",Unknown E203 A
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/72.m3u8
-#EXTINF:-1 tvg-id="dell-jsports4" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_40.png" group-title="DELL Server",DELL J SPORTS 4
+#EXTINF:-1 tvg-id="matsu-jsports4" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_40.png" group-title="Matsu Server",J SPORTS 4
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/71.m3u8
-#EXTINF:-1 tvg-id="dell-jsports3" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_39.png" group-title="DELL Server",DELL J SPORTS 3
+#EXTINF:-1 tvg-id="matsu-jsports3" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_39.png" group-title="Matsu Server",J SPORTS 3
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/70.m3u8
-#EXTINF:-1 tvg-id="dell-jsports2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_38.png" group-title="DELL Server",DELL J SPORTS 2
+#EXTINF:-1 tvg-id="matsu-jsports2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_38.png" group-title="Matsu Server",J SPORTS 2
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/69.m3u8
-#EXTINF:-1 tvg-id="dell-jsports1" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_37.png" group-title="DELL Server",DELL J SPORTS 1
+#EXTINF:-1 tvg-id="matsu-jsports1" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_37.png" group-title="Matsu Server",J SPORTS 1
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/68.m3u8
-#EXTINF:-1 tvg-id="dell-golf-network" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_61.png" group-title="DELL Server",DELL Golf Network
+#EXTINF:-1 tvg-id="matsu-golf-network" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_61.png" group-title="Matsu Server",Golf Network
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/67.m3u8
-#EXTINF:-1 tvg-id="dell-green-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_36.png" group-title="DELL Server",DELL Green Channel
+#EXTINF:-1 tvg-id="matsu-green-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_36.png" group-title="Matsu Server",Green Channel
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/60.m3u8
-#EXTINF:-1 tvg-id="dell-kbs1-uhd" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL KBS1 UHD
+#EXTINF:-1 tvg-id="matsu-kbs1-uhd" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Matsu Server",KBS1 UHD
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/59.m3u8
-#EXTINF:-1 tvg-id="dell-disney-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_43.png" group-title="DELL Server",DELL Disney Channel
+#EXTINF:-1 tvg-id="matsu-disney-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_43.png" group-title="Matsu Server",Disney Channel
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/58.m3u8
-#EXTINF:-1 tvg-id="dell-japanese-movie" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_33.png" group-title="DELL Server",DELL Japanese Movie Channel
+#EXTINF:-1 tvg-id="matsu-japanese-movie" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_33.png" group-title="Matsu Server",Japanese Movie Channel
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/57.m3u8
-#EXTINF:-1 tvg-id="dell-animax" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_42.png" group-title="DELL Server",DELL Animax
+#EXTINF:-1 tvg-id="matsu-animax" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_42.png" group-title="Matsu Server",Animax
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/56.m3u8
-#EXTINF:-1 tvg-id="dell-wowow-plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_30.png" group-title="DELL Server",DELL WOWOW Plus
+#EXTINF:-1 tvg-id="matsu-wowow-plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_30.png" group-title="Matsu Server",WOWOW Plus
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/55.m3u8
-#EXTINF:-1 tvg-id="dell-world-fishing" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL World Fishing Network
+#EXTINF:-1 tvg-id="matsu-world-fishing" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Matsu Server",World Fishing Network
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/54.m3u8
-#EXTINF:-1 tvg-id="dell-bs-yoshimoto" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_35.png" group-title="DELL Server",DELL BS Yoshimoto
+#EXTINF:-1 tvg-id="matsu-bs-yoshimoto" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_35.png" group-title="Matsu Server",BS Yoshimoto
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/53.m3u8
-#EXTINF:-1 tvg-id="dell-bs10-premium" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_32.png" group-title="DELL Server",DELL BS10 Premium A
+#EXTINF:-1 tvg-id="matsu-bs10-premium" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_32.png" group-title="Matsu Server",BS10 Premium A
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/52.m3u8
-#EXTINF:-1 tvg-id="dell-nippon-poshre" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL Nippon TV Poshre
+#EXTINF:-1 tvg-id="matsu-nippon-poshre" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Matsu Server",Nippon TV Poshre
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/44.m3u8
-#EXTINF:-1 tvg-id="dell-wowow-cinema" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_29.png" group-title="DELL Server",DELL WOWOW Cinema
+#EXTINF:-1 tvg-id="matsu-wowow-cinema" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_29.png" group-title="Matsu Server",WOWOW Cinema
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/41.m3u8
-#EXTINF:-1 tvg-id="dell-wowow-live" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_28.png" group-title="DELL Server",DELL WOWOW Live
+#EXTINF:-1 tvg-id="matsu-wowow-live" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_28.png" group-title="Matsu Server",WOWOW Live
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/40.m3u8
-#EXTINF:-1 tvg-id="dell-wowow-prime" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_27.png" group-title="DELL Server",DELL WOWOW Prime
+#EXTINF:-1 tvg-id="matsu-wowow-prime" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_27.png" group-title="Matsu Server",WOWOW Prime
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/39.m3u8
-#EXTINF:-1 tvg-id="dell-bs-asahi" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_19.png" group-title="DELL Server",DELL BS Asahi
+#EXTINF:-1 tvg-id="matsu-bs-asahi" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_19.png" group-title="Matsu Server",BS Asahi
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/38.m3u8
-#EXTINF:-1 tvg-id="dell-bs-tv-tokyo" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_23.png" group-title="DELL Server",DELL BS TV Tokyo
+#EXTINF:-1 tvg-id="matsu-bs-tv-tokyo" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_23.png" group-title="Matsu Server",BS TV Tokyo
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/37.m3u8
-#EXTINF:-1 tvg-id="dell-gstv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL GSTV
+#EXTINF:-1 tvg-id="matsu-gstv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Matsu Server",GSTV
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/36.m3u8
-#EXTINF:-1 tvg-id="dell-direct-teleshop" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL Direct Teleshop
+#EXTINF:-1 tvg-id="matsu-direct-teleshop" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Matsu Server",Direct Teleshop
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/35.m3u8
-#EXTINF:-1 tvg-id="dell-jcom-bs" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_34.png" group-title="DELL Server",DELL JCOM BS A
+#EXTINF:-1 tvg-id="matsu-jcom-bs" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_34.png" group-title="Matsu Server",JCOM BS A
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/33.m3u8
-#EXTINF:-1 tvg-id="dell-nhk-bs" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_17.png" group-title="DELL Server",DELL NHK BS
+#EXTINF:-1 tvg-id="matsu-nhk-bs" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_17.png" group-title="Matsu Server",NHK BS
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/32.m3u8
-#EXTINF:-1 tvg-id="dell-abc-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_10.png" group-title="DELL Server",DELL ABC TV
+#EXTINF:-1 tvg-id="matsu-abc-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_10.png" group-title="Matsu Server",ABC TV
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/28.m3u8
-#EXTINF:-1 tvg-id="dell-nhk-osaka" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL NHK General Osaka
+#EXTINF:-1 tvg-id="matsu-nhk-osaka" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Matsu Server",NHK General Osaka
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/25.m3u8
-#EXTINF:-1 tvg-id="dell-sun-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL Sun TV
+#EXTINF:-1 tvg-id="matsu-sun-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Matsu Server",Sun TV
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/23.m3u8
-#EXTINF:-1 tvg-id="dell-tv-osaka" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_13.png" group-title="DELL Server",DELL TV Osaka
+#EXTINF:-1 tvg-id="matsu-tv-osaka" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_13.png" group-title="Matsu Server",TV Osaka
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/22.m3u8
-#EXTINF:-1 tvg-id="dell-yomiuri-b" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_12.png" group-title="DELL Server",DELL Yomiuri TV B
+#EXTINF:-1 tvg-id="matsu-yomiuri-b" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_12.png" group-title="Matsu Server",Yomiuri TV B
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/21.m3u8
-#EXTINF:-1 tvg-id="dell-yomiuri-a" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_12.png" group-title="DELL Server",DELL Yomiuri TV A
+#EXTINF:-1 tvg-id="matsu-yomiuri-a" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_12.png" group-title="Matsu Server",Yomiuri TV A
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/20.m3u8
-#EXTINF:-1 tvg-id="dell-mbs" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_9.png" group-title="DELL Server",DELL MBS
+#EXTINF:-1 tvg-id="matsu-mbs" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_9.png" group-title="Matsu Server",MBS
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/18.m3u8
-#EXTINF:-1 tvg-id="dell-chiba-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL Chiba TV
+#EXTINF:-1 tvg-id="matsu-chiba-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Matsu Server",Chiba TV
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/17.m3u8
-#EXTINF:-1 tvg-id="dell-nhk-general" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL NHK General
+#EXTINF:-1 tvg-id="matsu-nhk-general" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Matsu Server",NHK General
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/14.m3u8
-#EXTINF:-1 tvg-id="dell-fuji-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_4.png" group-title="DELL Server",DELL Fuji TV
+#EXTINF:-1 tvg-id="matsu-fuji-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_4.png" group-title="Matsu Server",Fuji TV
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/12.m3u8
-#EXTINF:-1 tvg-id="dell-tv-tokyo" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_6.png" group-title="DELL Server",DELL TV Tokyo
+#EXTINF:-1 tvg-id="matsu-tv-tokyo" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_6.png" group-title="Matsu Server",TV Tokyo
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/8.m3u8
-#EXTINF:-1 tvg-id="dell-tv-asahi" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_5.png" group-title="DELL Server",DELL TV Asahi
+#EXTINF:-1 tvg-id="matsu-tv-asahi" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_5.png" group-title="Matsu Server",TV Asahi
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/7.m3u8
-#EXTINF:-1 tvg-id="dell-tbs" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_3.png" group-title="DELL Server",DELL TBS
+#EXTINF:-1 tvg-id="matsu-tbs" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_3.png" group-title="Matsu Server",TBS
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/5.m3u8
-#EXTINF:-1 tvg-id="dell-nippon-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_2.png" group-title="DELL Server",DELL Nippon TV
+#EXTINF:-1 tvg-id="matsu-nippon-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_2.png" group-title="Matsu Server",Nippon TV
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/4.m3u8
-#EXTINF:-1 tvg-id="dell-unknown-e202" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="DELL Server",DELL Unknown E202 A
+#EXTINF:-1 tvg-id="matsu-unknown-e202" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Matsu Server",Unknown E202 A
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/3.m3u8
-#EXTINF:-1 tvg-id="dell-gaora-sports" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_59.png" group-title="DELL Server",DELL GAORA SPORTS
+#EXTINF:-1 tvg-id="matsu-gaora-sports" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_59.png" group-title="Matsu Server",GAORA SPORTS
 #EXTVLCOPT:network-caching=3000
 http://42.113.96.247:9394/stream/1.m3u8
-#EXTINF:-1 tvg-id="weather-news" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_100.png" group-title="Haru Server",Weather News
+#EXTINF:-1 tvg-id="weather-news" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_100.png" group-title="Sakura Server",Weather News
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="the-cinema" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_44.png" group-title="Haru Server",The Cinema
+#EXTINF:-1 tvg-id="the-cinema" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_44.png" group-title="Sakura Server",The Cinema
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="tetsudo-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_90.png" group-title="Haru Server",Tetsudo Channel
+#EXTINF:-1 tvg-id="tetsudo-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_90.png" group-title="Sakura Server",Tetsudo Channel
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="takarazuka-sky-stage" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_52.png" group-title="Haru Server",Takarazuka Sky Stage
+#EXTINF:-1 tvg-id="takarazuka-sky-stage" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_52.png" group-title="Sakura Server",Takarazuka Sky Stage
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="tabi-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_89.png" group-title="Haru Server",Tabi Channel
+#EXTINF:-1 tvg-id="tabi-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_89.png" group-title="Sakura Server",Tabi Channel
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="tv-asahi-ch2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_58.png" group-title="Haru Server",TV Asahi Channel 2
+#EXTINF:-1 tvg-id="tv-asahi-ch2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_58.png" group-title="Sakura Server",TV Asahi Channel 2
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="tv-asahi-ch1" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_48.png" group-title="Haru Server",TV Asahi Channel 1
+#EXTINF:-1 tvg-id="tv-asahi-ch1" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_48.png" group-title="Sakura Server",TV Asahi Channel 1
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="tbs-news" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_98.png" group-title="Haru Server",TBS News
+#EXTINF:-1 tvg-id="tbs-news" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_98.png" group-title="Sakura Server",TBS News
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/tbs_news/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="tbs-ch2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_47.png" group-title="Haru Server",TBS Channel 2
+#EXTINF:-1 tvg-id="tbs-ch2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_47.png" group-title="Sakura Server",TBS Channel 2
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="tbs-ch1" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_46.png" group-title="Haru Server",TBS Channel 1
+#EXTINF:-1 tvg-id="tbs-ch1" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_46.png" group-title="Sakura Server",TBS Channel 1
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="sport-live-plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_64.png" group-title="Haru Server",Sport Live Plus
+#EXTINF:-1 tvg-id="sport-live-plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_64.png" group-title="Sakura Server",Sport Live Plus
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="space-shower-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_76.png" group-title="Haru Server",Space Shower TV
+#EXTINF:-1 tvg-id="space-shower-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_76.png" group-title="Sakura Server",Space Shower TV
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="sky-a" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_63.png" group-title="Haru Server",Sky A
+#EXTINF:-1 tvg-id="sky-a" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_63.png" group-title="Sakura Server",Sky A
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/sky_a/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="shogi-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_65.png" group-title="Haru Server",Shogi Channel
+#EXTINF:-1 tvg-id="shogi-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_65.png" group-title="Sakura Server",Shogi Channel
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="nittele-plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_59.png" group-title="Haru Server",Nittele Plus
+#EXTINF:-1 tvg-id="nittele-plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_59.png" group-title="Sakura Server",Nittele Plus
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="nittele-g" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_60.png" group-title="Haru Server",Nittele G+
+#EXTINF:-1 tvg-id="nittele-g" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_60.png" group-title="Sakura Server",Nittele G+
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/nittele_g/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="natgeo-japan" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_86.png" group-title="Haru Server",National Geographic Japan
+#EXTINF:-1 tvg-id="natgeo-japan" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_86.png" group-title="Sakura Server",National Geographic Japan
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="ntv-news24" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_99.png" group-title="Haru Server",NTV News24
+#EXTINF:-1 tvg-id="ntv-news24" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_99.png" group-title="Sakura Server",NTV News24
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="neco-ch" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_53.png" group-title="Haru Server",NECO Ch
+#EXTINF:-1 tvg-id="neco-ch" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_53.png" group-title="Sakura Server",NECO Ch
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="mystery-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_66.png" group-title="Haru Server",Mystery Channel
+#EXTINF:-1 tvg-id="mystery-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_66.png" group-title="Sakura Server",Mystery Channel
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="music-on-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_73.png" group-title="Haru Server",Music ON TV
+#EXTINF:-1 tvg-id="music-on-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_73.png" group-title="Sakura Server",Music ON TV
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="music-japan-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_77.png" group-title="Haru Server",Music Japan TV
+#EXTINF:-1 tvg-id="music-japan-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_77.png" group-title="Sakura Server",Music Japan TV
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="music-air" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_75.png" group-title="Haru Server",Music Air
+#EXTINF:-1 tvg-id="music-air" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_75.png" group-title="Sakura Server",Music Air
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="movie-plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_57.png" group-title="Haru Server",Movie Plus
+#EXTINF:-1 tvg-id="movie-plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_57.png" group-title="Sakura Server",Movie Plus
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/movie_plus/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="mondo-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_67.png" group-title="Haru Server",Mondo TV
+#EXTINF:-1 tvg-id="mondo-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_67.png" group-title="Sakura Server",Mondo TV
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="mnet" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_97.png" group-title="Haru Server",Mnet
+#EXTINF:-1 tvg-id="mnet" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_97.png" group-title="Sakura Server",Mnet
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="me-tele-next" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Haru Server",Me-Tele NEXT
+#EXTINF:-1 tvg-id="me-tele-next" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Sakura Server",Me-Tele NEXT
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="mtv-japan" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_74.png" group-title="Haru Server",MTV
+#EXTINF:-1 tvg-id="mtv-japan" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_74.png" group-title="Sakura Server",MTV
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/mtv/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="lala-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_55.png" group-title="Haru Server",LaLa TV
+#EXTINF:-1 tvg-id="lala-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_55.png" group-title="Sakura Server",LaLa TV
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/lala_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="kids-station" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_79.png" group-title="Haru Server",Kids Station TV
+#EXTINF:-1 tvg-id="kids-station" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_79.png" group-title="Sakura Server",Kids Station TV
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="kayo-pops" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_78.png" group-title="Haru Server",Kayo Pops
+#EXTINF:-1 tvg-id="kayo-pops" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_78.png" group-title="Sakura Server",Kayo Pops
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="kntv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_96.png" group-title="Haru Server",KNTV
+#EXTINF:-1 tvg-id="kntv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_96.png" group-title="Sakura Server",KNTV
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="kbs-world" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Haru Server",KBS World
+#EXTINF:-1 tvg-id="kbs-world" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Sakura Server",KBS World
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="jidaigeki-senmon" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_49.png" group-title="Haru Server",Jidaigeki Senmon
+#EXTINF:-1 tvg-id="jidaigeki-senmon" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_49.png" group-title="Sakura Server",Jidaigeki Senmon
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="home-drama" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_51.png" group-title="Haru Server",Home Drama Channel
+#EXTINF:-1 tvg-id="home-drama" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_51.png" group-title="Sakura Server",Home Drama Channel
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="history-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_85.png" group-title="Haru Server",History
+#EXTINF:-1 tvg-id="history-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_85.png" group-title="Sakura Server",History
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/history/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="golf-network" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_61.png" group-title="Haru Server",Golf Network
+#EXTINF:-1 tvg-id="golf-network" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_61.png" group-title="Sakura Server",Golf Network
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/golf_network/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="fuji-tv-two" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_71.png" group-title="Haru Server",Fuji TV TWO
+#EXTINF:-1 tvg-id="fuji-tv-two" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_71.png" group-title="Sakura Server",Fuji TV TWO
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="fuji-tv-one" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_70.png" group-title="Haru Server",Fuji TV ONE
+#EXTINF:-1 tvg-id="fuji-tv-one" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_70.png" group-title="Sakura Server",Fuji TV ONE
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="fuji-tv-next" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_72.png" group-title="Haru Server",Fuji TV Next
+#EXTINF:-1 tvg-id="fuji-tv-next" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_72.png" group-title="Sakura Server",Fuji TV Next
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="fighting-tv-samurai" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_62.png" group-title="Haru Server",Fighting TV Samurai
+#EXTINF:-1 tvg-id="fighting-tv-samurai" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_62.png" group-title="Sakura Server",Fighting TV Samurai
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="family-gekijyo" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_50.png" group-title="Haru Server",Family Gekijyo
+#EXTINF:-1 tvg-id="family-gekijyo" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_50.png" group-title="Sakura Server",Family Gekijyo
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="eisei-gekijo" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_45.png" group-title="Haru Server",Eisei Gekijo
+#EXTINF:-1 tvg-id="eisei-gekijo" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_45.png" group-title="Sakura Server",Eisei Gekijo
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="disney-junior" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_81.png" group-title="Haru Server",Disney Junior
+#EXTINF:-1 tvg-id="disney-junior" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_81.png" group-title="Sakura Server",Disney Junior
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/disney_junior/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="discovery-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_87.png" group-title="Haru Server",Discovery Channel
+#EXTINF:-1 tvg-id="discovery-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_87.png" group-title="Sakura Server",Discovery Channel
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="dlife" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_54.png" group-title="Haru Server",DLife
+#EXTINF:-1 tvg-id="dlife" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_54.png" group-title="Sakura Server",DLife
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="channel-ginga" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_69.png" group-title="Haru Server",Channel Ginga
+#EXTINF:-1 tvg-id="channel-ginga" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_69.png" group-title="Sakura Server",Channel Ginga
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="cartoon-network-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_84.png" group-title="Haru Server",Cartoon Network
+#EXTINF:-1 tvg-id="cartoon-network-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_84.png" group-title="Sakura Server",Cartoon Network
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="animal-planet-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_88.png" group-title="Haru Server",Animal Planet
+#EXTINF:-1 tvg-id="animal-planet-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_88.png" group-title="Sakura Server",Animal Planet
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/animal_planet/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="action-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_56.png" group-title="Haru Server",Action Channel
+#EXTINF:-1 tvg-id="action-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_56.png" group-title="Sakura Server",Action Channel
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/action_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="at-x" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_80.png" group-title="Haru Server",AT-X
+#EXTINF:-1 tvg-id="at-x" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_80.png" group-title="Sakura Server",AT-X
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="nihon-eiga" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_33.png" group-title="Haru Server",Nihon Eiga Senmon
+#EXTINF:-1 tvg-id="nihon-eiga" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_33.png" group-title="Sakura Server",Nihon Eiga Senmon
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="jcom-bs" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_34.png" group-title="Haru Server",JCOM BS
+#EXTINF:-1 tvg-id="jcom-bs" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_34.png" group-title="Sakura Server",JCOM BS
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="hoso-daigaku" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_ouj.png" group-title="Haru Server",Hoso Daigaku EX
+#EXTINF:-1 tvg-id="hoso-daigaku" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_ouj.png" group-title="Sakura Server",Hoso Daigaku EX
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/hoso_daigaku_ex/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="green-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_36.png" group-title="Haru Server",Green Channel
+#EXTINF:-1 tvg-id="green-channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_36.png" group-title="Sakura Server",Green Channel
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/green_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="fishing-vision" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_41.png" group-title="Haru Server",Fishing Vision
+#EXTINF:-1 tvg-id="fishing-vision" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_41.png" group-title="Sakura Server",Fishing Vision
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="disney-channel-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_43.png" group-title="Haru Server",Disney Channel
+#EXTINF:-1 tvg-id="disney-channel-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_43.png" group-title="Sakura Server",Disney Channel
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/disney_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="bs11" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_25.png" group-title="Haru Server",BS11
+#EXTINF:-1 tvg-id="bs11" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_25.png" group-title="Sakura Server",BS11
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="bs10" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_31.png" group-title="Haru Server",BS10
+#EXTINF:-1 tvg-id="bs10" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_31.png" group-title="Sakura Server",BS10
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="bs-yoshimoto" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_35.png" group-title="Haru Server",BS Yoshimoto
+#EXTINF:-1 tvg-id="bs-yoshimoto" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_35.png" group-title="Sakura Server",BS Yoshimoto
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="bs-tv-tokyo-4k" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_23.png" group-title="Haru Server",BS TV Tokyo 4K
+#EXTINF:-1 tvg-id="bs-tv-tokyo-4k" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_23.png" group-title="Sakura Server",BS TV Tokyo 4K
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="bs-tv-tokyo" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_23.png" group-title="Haru Server",BS TV Tokyo
+#EXTINF:-1 tvg-id="bs-tv-tokyo" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_23.png" group-title="Sakura Server",BS TV Tokyo
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="bs-tbs" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_21.png" group-title="Haru Server",BS TBS
+#EXTINF:-1 tvg-id="bs-tbs" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_21.png" group-title="Sakura Server",BS TBS
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="bs-ntv-4k" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_18.png" group-title="Haru Server",BS NTV 4K
+#EXTINF:-1 tvg-id="bs-ntv-4k" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_18.png" group-title="Sakura Server",BS NTV 4K
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/bs_ntv_4k/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="bs-ntv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_18.png" group-title="Haru Server",BS NTV
+#EXTINF:-1 tvg-id="bs-ntv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_18.png" group-title="Sakura Server",BS NTV
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="bs-fuji-4k" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_24.png" group-title="Haru Server",BS Fuji 4K
+#EXTINF:-1 tvg-id="bs-fuji-4k" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_24.png" group-title="Sakura Server",BS Fuji 4K
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/bs_fuji_4k/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="bs-fuji" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_24.png" group-title="Haru Server",BS Fuji
+#EXTINF:-1 tvg-id="bs-fuji" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_24.png" group-title="Sakura Server",BS Fuji
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="bs-asahi-4k" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_19.png" group-title="Haru Server",BS Asahi 4K
+#EXTINF:-1 tvg-id="bs-asahi-4k" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_19.png" group-title="Sakura Server",BS Asahi 4K
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="bs-asahi" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_19.png" group-title="Haru Server",BS Asahi
+#EXTINF:-1 tvg-id="bs-asahi" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_19.png" group-title="Sakura Server",BS Asahi
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="bs-12" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_26.png" group-title="Haru Server",BS 12
+#EXTINF:-1 tvg-id="bs-12" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_26.png" group-title="Sakura Server",BS 12
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="bs-10-premium" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_32.png" group-title="Haru Server",BS 10 Premium
+#EXTINF:-1 tvg-id="bs-10-premium" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_32.png" group-title="Sakura Server",BS 10 Premium
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="animax-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_42.png" group-title="Haru Server",Animax
+#EXTINF:-1 tvg-id="animax-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_42.png" group-title="Sakura Server",Animax
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/animax/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="ytv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_12.png" group-title="Haru Server",ytv
+#EXTINF:-1 tvg-id="ytv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_12.png" group-title="Sakura Server",ytv
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/ytv/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="tv-osaka" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_13.png" group-title="Haru Server",TV Osaka
+#EXTINF:-1 tvg-id="tv-osaka" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_13.png" group-title="Sakura Server",TV Osaka
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="sun-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Haru Server",SUN
+#EXTINF:-1 tvg-id="sun-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" group-title="Sakura Server",SUN
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/sun/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="mbs-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_9.png" group-title="Haru Server",MBS
+#EXTINF:-1 tvg-id="mbs-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_9.png" group-title="Sakura Server",MBS
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/mbs/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="kansai-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_11.png" group-title="Haru Server",Kansai TV
+#EXTINF:-1 tvg-id="kansai-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_11.png" group-title="Sakura Server",Kansai TV
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="kbs-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_14.png" group-title="Haru Server",KBS
+#EXTINF:-1 tvg-id="kbs-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_14.png" group-title="Sakura Server",KBS
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="abc-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_10.png" group-title="Haru Server",ABC
+#EXTINF:-1 tvg-id="abc-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_10.png" group-title="Sakura Server",ABC
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/abc/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="tv-tokyo" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_6.png" group-title="Haru Server",TV Tokyo
+#EXTINF:-1 tvg-id="tv-tokyo" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_6.png" group-title="Sakura Server",TV Tokyo
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="tv-asahi" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_5.png" group-title="Haru Server",TV Asahi
+#EXTINF:-1 tvg-id="tv-asahi" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_5.png" group-title="Sakura Server",TV Asahi
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="tokyo-mx2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_8.png" group-title="Haru Server",TOKYO MX2
+#EXTINF:-1 tvg-id="tokyo-mx2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_8.png" group-title="Sakura Server",TOKYO MX2
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="tokyo-mx1" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_7.png" group-title="Haru Server",TOKYO MX1
+#EXTINF:-1 tvg-id="tokyo-mx1" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_7.png" group-title="Sakura Server",TOKYO MX1
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="tbs-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_3.png" group-title="Haru Server",TBS
+#EXTINF:-1 tvg-id="tbs-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_3.png" group-title="Sakura Server",TBS
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/tbs/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="ntv-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_2.png" group-title="Haru Server",NTV
+#EXTINF:-1 tvg-id="ntv-jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_2.png" group-title="Sakura Server",NTV
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/ntv/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="fuji-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_4.png" group-title="Haru Server",Fuji TV
+#EXTINF:-1 tvg-id="fuji-tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_4.png" group-title="Sakura Server",Fuji TV
 #EXTVLCOPT:network-caching=3000
 https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
