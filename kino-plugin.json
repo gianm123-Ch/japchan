@@ -1,0 +1,11 @@
+{
+  "id": "jptvgo-kino",
+  "name": "Japan TV GO",
+  "version": "1.0.0",
+  "apiVersion": 3,
+  "entry": "plugin.js",
+  "description": "Canales de televisión japonesa en vivo",
+  "hosts": [],
+  "capabilities": ["home", "resolve", "channels"],
+  "liveStreamHosts": "any"
+}

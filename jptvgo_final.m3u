@@ -1,0 +1,388 @@
+#EXTM3U
+#EXTINF:-1 group-title="DELL Server",DELL MTV Japan
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/74.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Movie Plus
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/73.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Unknown E203 A
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/72.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL J SPORTS 4 off-air
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/71.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL J SPORTS 3
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/70.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL J SPORTS 2
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/69.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL J SPORTS 1
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/68.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Golf Network
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/67.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Green Channel
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/60.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL KBS1 UHD
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/59.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Disney Channel
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/58.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Japanese Movie Channel
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/57.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Animax
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/56.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL WOWOW Plus
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/55.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL World Fishing Network
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/54.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL BS Yoshimoto
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/53.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL BS10 Premium A
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/52.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Nippon TV Poshre
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/44.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL WOWOW Cinema
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/41.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL WOWOW Live
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/40.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL WOWOW Prime
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/39.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL BS Asahi
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/38.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL BS TV Tokyo
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/37.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL GSTV
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/36.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Direct Teleshop
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/35.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL JCOM BS A
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/33.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL NHK BS
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/32.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL ABC TV
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/28.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL NHK General Osaka
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/25.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Sun TV
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/23.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL TV Osaka
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/22.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Yomiuri TV B
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/21.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Yomiuri TV A
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/20.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL MBS
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/18.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Chiba TV
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/17.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL NHK General
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/14.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Fuji TV
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/12.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL TV Tokyo
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/8.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL TV Asahi
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/7.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL TBS
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/5.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Nippon TV
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/4.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL Unknown E202 A
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/3.m3u8
+#EXTINF:-1 group-title="DELL Server",DELL GAORA SPORTS
+#EXTVLCOPT:network-caching=3000
+http://42.113.96.247:9394/stream/1.m3u8
+#EXTINF:-1 group-title="Haru Server",Weather News
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",The Cinema
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Tetsudo Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Takarazuka Sky Stage
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Tabi Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",TV Asahi Channel 2
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",TV Asahi Channel 1
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",TBS News
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tbs_news/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",TBS Channel 2
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",TBS Channel 1
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Sport Live Plus
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Space Shower TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Sky A
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/sky_a/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Shogi Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Nittele Plus
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Nittele G+
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/nittele_g/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",National Geographic Japan
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",NTV News24
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",NECO Ch
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Mystery Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Music ON TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Music Japan TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Music Air
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Movie Plus
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/movie_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Mondo TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Mnet
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Me-Tele NEXT
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",MTV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/mtv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",LaLa TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/lala_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Kids Station TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Kayo Pops
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",KNTV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",KBS World
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Jidaigeki Senmon
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Home Drama Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",History
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/history/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Golf Network
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/golf_network/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Fuji TV TWO
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Fuji TV ONE
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Fuji TV Next
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Fighting TV Samurai
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Family Gekijyo
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Eisei Gekijo
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Disney Junior
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/disney_junior/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Discovery Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",DLife
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Channel Ginga
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Cartoon Network
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Animal Planet
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/animal_planet/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Action Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/action_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",AT-X
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Nihon Eiga Senmon
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",JCOM BS
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Hoso Daigaku EX
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/hoso_daigaku_ex/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Green Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/green_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Fishing Vision
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Disney Channel
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",BS11
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",BS10
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",BS Yoshimoto
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",BS TV Tokyo 4K
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",BS TV Tokyo
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",BS TBS
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",BS NTV 4K
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_ntv_4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",BS NTV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",BS Fuji 4K
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_fuji_4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",BS Fuji
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",BS Asahi 4K
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",BS Asahi
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",BS 12
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",BS 10 Premium
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Animax
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/animax/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",ytv
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/ytv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",TV Osaka
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",SUN
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/sun/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",MBS
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/mbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Kansai TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",KBS
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",ABC
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/abc/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",TV Tokyo
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",TV Asahi
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",TOKYO MX2
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",TOKYO MX1
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",TBS
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",NTV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Haru Server",Fuji TV
+#EXTVLCOPT:network-caching=3000
+https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
