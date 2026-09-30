@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "apiVersion": 3,
   "icon": "icon.png",
+  "color": "#E09BAF",
   "entry": "plugin.js",
   "description": "Canales de televisión japonesa en vivo",
   "hosts": ["raw.githubusercontent.com"],
