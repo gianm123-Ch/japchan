@@ -5,7 +5,7 @@
   "apiVersion": 3,
   "entry": "plugin.js",
   "description": "Canales de televisión japonesa en vivo",
-  "hosts": [],
+  "hosts": ["raw.githubusercontent.com"],
   "capabilities": ["home", "resolve", "channels"],
   "liveStreamHosts": "any"
 }
