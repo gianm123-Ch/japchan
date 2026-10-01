@@ -1,7 +1,7 @@
 {
   "id": "jptv-kino",
   "name": "Japan TV",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "apiVersion": 3,
   "icon": "icon.png",
   "color": "#E09BAF",
@@ -16,7 +16,7 @@
       "label": "URL de la lista M3U",
       "type": "url",
       "required": true,
-      "default": "https://raw.githubusercontent.com/gianm123-Ch/japchan/main/jptvgo_final.m3u"
+      "hint": "https://raw.githubusercontent.com/gianm123-Ch/japchan/main/jptvgo_final.m3u"
     }
   ]
 }
