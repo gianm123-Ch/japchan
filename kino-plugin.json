@@ -1,13 +1,17 @@
 {
   "id": "jptv-kino",
   "name": "Japan TV",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "apiVersion": 3,
   "icon": "icon.png",
   "color": "#E09BAF",
   "entry": "plugin.js",
   "description": "Canales de televisión japonesa en vivo",
-  "hosts": ["raw.githubusercontent.com"],
+  "hosts": [
+    "www.googleapis.com",
+    "haru.charandom.blog",
+    "42.113.96.247:9394"
+  ],
   "capabilities": ["home", "resolve", "channels"],
   "liveStreamHosts": "any"
 }
