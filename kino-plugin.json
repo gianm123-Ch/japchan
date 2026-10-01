@@ -1,22 +1,17 @@
 {
   "id": "jptv-kino",
   "name": "Japan TV",
-  "version": "1.4.0",
+  "version": "2.0.0",
   "apiVersion": 3,
   "icon": "icon.png",
   "color": "#E09BAF",
   "entry": "plugin.js",
   "description": "Canales de televisión japonesa en vivo",
-  "hosts": [],
+  "hosts": [
+    "www.googleapis.com",
+    "haru.charandom.blog",
+    "xuanzi-storage.netgenx.site"
+  ],
   "capabilities": ["home", "resolve", "channels"],
-  "liveStreamHosts": "any",
-  "settings": [
-    {
-      "key": "lista",
-      "label": "URL de la lista M3U",
-      "type": "url",
-      "required": true,
-      "hint": "https://raw.githubusercontent.com/gianm123-Ch/japchan/main/jptvgo_final.m3u"
-    }
-  ]
+  "liveStreamHosts": "any"
 }
