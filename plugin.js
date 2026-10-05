@@ -45,10 +45,12 @@ async function obtenerGrupos() {
       id: slugify(post.title),
       title: post.title,
       logo: logo || undefined,
-      stream: {
-        url: streamUrl,
-        headers: HEADERS,
-      },
+      streams: [
+        {
+          url: streamUrl,
+          headers: HEADERS,
+        }
+      ],
     });
   }
 
