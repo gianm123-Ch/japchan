@@ -1,6 +1,11 @@
 const BLOGGER_ID = "4592459537376012257";
 const API_KEY = "AIzaSyAo0sl8fAw-DNJ_nm3cqmxznd9LGgg1bhc";
 
+const HEADERS = {
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36",
+  "Referer": "https://jptvgo.blogspot.com/"
+};
+
 function extraerStream(html) {
   const m = html.match(/<source\s+src="([^"]+\.m3u8[^"]*)"/i);
   return m ? m[1] : null;
@@ -21,10 +26,10 @@ async function obtenerGrupos() {
     "?key=" + API_KEY + "&maxResults=500&orderBy=published" +
     "&fields=items(title,content,labels)";
 
-  const res = await kino.fetch(url);
+  const res = await kino.fetch(url, { headers: HEADERS });
   if (!res.ok) throw kino.error("unavailable");
 
-  const data = res.json();
+  const data = JSON.parse(res.body);
   const items = data.items || [];
   const grupos = {};
 
@@ -40,7 +45,10 @@ async function obtenerGrupos() {
       id: slugify(post.title),
       title: post.title,
       logo: logo || undefined,
-      stream: { url: streamUrl },
+      stream: {
+        url: streamUrl,
+        headers: HEADERS,
+      },
     });
   }
 
